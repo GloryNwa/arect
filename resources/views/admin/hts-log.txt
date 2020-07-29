@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 06 Jul 2020 13:07:22 at http://www.wrraptheme.com/templates/lucid/hr/html/light/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.wrraptheme.com/templates/lucid/hr/html/light/index.html -O1 "C:\Users\Glory Nwa\Desktop\ICMPortal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:09:36	Warning: 	file not stored in cache due to bogus state (broken size, expected 180772 got 2444): www.wrraptheme.com/templates/lucid/hr/html/light/assets/fonts/simple-Line-Icons.svg
+13:09:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 762574 got 2427): www.wrraptheme.com/templates/lucid/hr/html/assets/images/auth_bg.jpg
+13:13:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 187117 got 2425): www.wrraptheme.com/templates/lucid/hr/html/assets/vendor/c3/c3.min.js
+13:14:02	Warning: 	Retry after error -4 (Incorrect length (2444 Bytes, 180772 expected)) at link www.wrraptheme.com/templates/lucid/hr/html/light/assets/fonts/simple-Line-Icons.svg (from www.wrraptheme.com/templates/lucid/hr/html/light/assets/css/main.css)
+13:14:02	Warning: 	Retry after error -4 (No data (connection closed)) at link www.wrraptheme.com/templates/lucid/hr/html/light/assets/fonts/weathericons-regular-webfont.eot (from www.wrraptheme.com/templates/lucid/hr/html/light/assets/css/main.css)
+13:14:09	Warning: 	Retry after error -4 (Incorrect length (2427 Bytes, 762574 expected)) at link www.wrraptheme.com/templates/lucid/hr/html/assets/images/auth_bg.jpg (from www.wrraptheme.com/templates/lucid/hr/html/light/assets/css/main.css)
+13:14:09	Warning: 	Retry after error -4 (No data (connection closed)) at link www.wrraptheme.com/templates/lucid/hr/html/light/assets/bundles/fullcalendarscripts.bundle.js (from www.wrraptheme.com/templates/lucid/hr/html/light/app-events.html)
+13:14:15	Error: 	"Not Found" (404) at link www.wrraptheme.com/templates/lucid/hr/html/assets/vendor/nestable/jquery.nestable.js (from www.wrraptheme.com/templates/lucid/hr/html/light/index2.html)
+13:14:27	Error: 	"Not Found" (404) at link www.wrraptheme.com/templates/lucid/hr/html/light/cropped.jpg (from www.wrraptheme.com/templates/lucid/hr/html/light/forms-cropping.html)
+13:14:27	Warning: 	Retry after error -4 (Incorrect length (2425 Bytes, 187117 expected)) at link www.wrraptheme.com/templates/lucid/hr/html/assets/vendor/c3/c3.min.js (from www.wrraptheme.com/templates/lucid/hr/html/light/chart-c3.html)
+13:14:27	Warning: 	Retry after error -4 (No data (connection closed)) at link www.wrraptheme.com/templates/lucid/hr/html/light/assets/js/pages/chart/c3.js (from www.wrraptheme.com/templates/lucid/hr/html/light/chart-c3.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 32 seconds : 346 links scanned, 337 files written (13681336 bytes overall) [9580113 bytes received at 21194 bytes/sec], 4862688 bytes transferred using HTTP compression in 111 files, ratio 12%, 3.6 requests per connection
+(2 errors, 9 warnings, 0 messages)
